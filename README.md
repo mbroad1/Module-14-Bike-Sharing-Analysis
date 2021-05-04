@@ -35,3 +35,10 @@ Two female entrepreneurs are interested in starting a summer bike sharing busine
 - Males are more likely to subscribe to the NYC Citi Bike service in comparison to females and non-binary/unknown people.
 - This heat map shows that there is lots of opportunity to market to females and non-binary/unknown people about the benefits of subscribing to the service.
   - Potentially, there could be discounts to encourage people to join as subscribers if their first time users which would most likely target females and non-binary/unknown people more so than males who probably have used the service before.
+---
+## Summary:
+- Overall, the visualizations clearly show the success of the NYC Citi Bike business, and thus, there is a great chance that it could be widely successful in the city of Des Moines.
+- One visualization that would be interesting to see would be the yearly use of NYC Citi Bike by users on a month-to-month basis to see if the business is sustainable throughout the year.
+  -  If it is widely successful throughout the year, this visualization would convince investors even more about the potential success of the business in Des Moines.
+- Another visualization that would help with this pitch would be to see where males, females, and non-binary/unknown people are most likely to rent a bike and where they are most likely to stop riding a bike.
+  -  Knowing these locations could help where to set up these bike shops in Des Moines and the marketing necessary to promote the locations of these shops in Des Moines.
