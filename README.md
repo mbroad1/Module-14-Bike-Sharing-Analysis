@@ -26,3 +26,12 @@ Two female entrepreneurs are interested in starting a summer bike sharing busine
 ![Bike Sharing Analysis](https://github.com/mbroad1/Module-14-Bike-Sharing-Analysis/blob/main/Checkout%20Times%20for%20Gender.png)
 - Males, females, and non-binary/unknown people all rent their bikes for around 20 minutes or less.
 - Males are more likely to ride longer than 20 minutes in comparison to female or non-binary/unknown people.
+
+![Bike Sharing Analysis](https://github.com/mbroad1/Module-14-Bike-Sharing-Analysis/blob/main/Trips%20by%20Gender.png)
+- Males use NYC Citi Bike significantly more than females or non-binary/unknown people do, making them the target audience.
+- However, this heat map shows that there is a lot of potential to gain more female and non-binary/unknown customers, so investing in marketing towards these groups could make the Des Moine bike sharing business more successful than the NYC Citi Bike business.
+
+![Bike Sharing Analysis](https://github.com/mbroad1/Module-14-Bike-Sharing-Analysis/blob/main/User%20Trips%20by%20Gender.png)
+- Males are more likely to subscribe to the NYC Citi Bike service in comparison to females and non-binary/unknown people.
+- This heat map shows that there is lots of opportunity to market to females and non-binary/unknown people about the benefits of subscribing to the service.
+  - Potentially, there could be discounts to encourage people to join as subscribers if their first time users which would most likely target females and non-binary/unknown people more so than males who probably have used the service before.
