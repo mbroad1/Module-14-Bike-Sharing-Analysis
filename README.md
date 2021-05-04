@@ -3,7 +3,7 @@
 ## Overview of the Statistical Analysis:
 Two female entrepreneurs are interested in starting a summer bike sharing business in Des Moines, Iowa after seeing the success of the business in NYC called NYC Citi Bike. In order to start this business, they need to pitch the idea to potential investors using visualizations based on the NYC Citi Bike data. From these visualizations, they will be able to convince investors that the business has lots of potential to be a successful venture, and can figure out a marketing strategy to propel their business to success.
 ---
-## Results
+## Results:
 ![Bike Sharing Analysis](https://github.com/mbroad1/Module-14-Bike-Sharing-Analysis/blob/main/Number%20of%20Rides.png)
 - According to the NYC Citi Bike data, millions of people rent their bikes, especially in the month of August.
 
@@ -22,3 +22,7 @@ Two female entrepreneurs are interested in starting a summer bike sharing busine
 - Typically, customers will ride for 20 minutes or less.
 - The max time that they ride is around 40 minutes.
 - Potentially, there may be ways to incentize customers to ride for longer time periods like suggesting bike routes around the city or outdoor parks to ride around.
+
+![Bike Sharing Analysis](https://github.com/mbroad1/Module-14-Bike-Sharing-Analysis/blob/main/Checkout%20Times%20for%20Gender.png)
+- Males, females, and non-binary/unknown people all rent their bikes for around 20 minutes or less.
+- Males are more likely to ride longer than 20 minutes in comparison to female or non-binary/unknown people.
