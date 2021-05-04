@@ -3,8 +3,8 @@
 ## Overview of the Statistical Analysis:
 Two female entrepreneurs are interested in starting a summer bike sharing business in Des Moines, Iowa after seeing the success of the business in NYC called NYC Citi Bike. In order to start this business, they need to pitch the idea to potential investors using visualizations based on the NYC Citi Bike data. From these visualizations, they will be able to convince investors that the business has lots of potential to be a successful venture, and can figure out a marketing strategy to propel their business to success.
 
-Link to Tableau Story Bike Sharing Analysis:
-[Tableau Bike Sharing Analysis](https://public.tableau.com/profile/mia2989#!/vizhome/BikeSharing_16195650229540/NYCCitiBikeSuccessPredictstheSuccessofDesMoinesCitiBike)
+Link to Tableau Story:
+[Bike Sharing Analysis](https://public.tableau.com/profile/mia2989#!/vizhome/BikeSharing_16195650229540/NYCCitiBikeSuccessPredictstheSuccessofDesMoinesCitiBike)
 ---
 ## Results:
 ![Bike Sharing Analysis](https://github.com/mbroad1/Module-14-Bike-Sharing-Analysis/blob/main/Number%20of%20Rides.png)
